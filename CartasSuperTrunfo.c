@@ -7,7 +7,10 @@
 //Teste larissa
 
 int main() { 
-    printf("Desafio Super Trunfo - Países");
+    printf("Desafio Super Trunfo - Países\n"); 
+    printf("Tema 1 - Cadastro das Cartas\n");
+    printf("Carta 1:\n");
+    char Amazonas[20]="A"; 
     // Sugestão: Defina variáveis separadas para cada atributo da cidade.
     // Exemplos de atributos: código da cidade, nome, população, área, PIB, número de pontos turísticos.
     
