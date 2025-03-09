@@ -10,8 +10,11 @@ int main() {
     printf("Desafio Super Trunfo - Países\n"); 
     printf("Tema 1 - Cadastro das Cartas\n");
     printf("Carta 1:\n");
-    char Estado ='A';
-    printf("Estado=%c \n",Estado);
+   
+    char Amazonas='A';
+    printf("Amazonas:%c \n",Amazonas);
+    char Codigo[]="A01";
+    printf("Codigo:%s \n",Codigo);
     
     // Sugestão: Defina variáveis separadas para cada atributo da cidade.
     // Exemplos de atributos: código da cidade, nome, população, área, PIB, número de pontos turísticos.
