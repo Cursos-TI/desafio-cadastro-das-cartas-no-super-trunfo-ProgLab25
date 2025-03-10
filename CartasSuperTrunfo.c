@@ -13,8 +13,10 @@ int main() {
    
     char Amazonas='A';
     printf("Amazonas:%c \n",Amazonas);
-    char Código[]="A01";
-    printf("Código:%s \n",Código);
+    char Codigo[]="A01";
+    printf("Codigo:%s \n",Codigo);
+    char Cidade[]="Manaus";
+    printf("Cidade:%s \n",Cidade);
     
     // Sugestão: Defina variáveis separadas para cada atributo da cidade.
     // Exemplos de atributos: código da cidade, nome, população, área, PIB, número de pontos turísticos.
