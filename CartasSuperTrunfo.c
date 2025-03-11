@@ -17,8 +17,17 @@ int main() {
     printf("Codigo:%s \n",Codigo);
     char Cidade[]="Manaus";
     printf("Cidade:%s \n",Cidade);
-    
-    // Sugestão: Defina variáveis separadas para cada atributo da cidade.
+    int Populacao = 2063689;       
+    printf ("Populacao:%d habitantes \n",Populacao); 
+    float Area = 11401;
+    printf("Area:%.3f km2\n",Area); 
+    float PBI = 103281;
+    printf("PBI: %.2f reais \n", PBI);
+    int Pontos_Turisticos = 40;
+    printf("Pontos Turisticos:%d \n",Pontos_Turisticos);
+
+    printf("Carta 2:\n");
+    // Sugestão: Defina Variáveis separadas para cada atributo das cidade.
     // Exemplos de atributos: código da cidade, nome, população, área, PIB, número de pontos turísticos.
     
     // Cadastro das Cartas:
