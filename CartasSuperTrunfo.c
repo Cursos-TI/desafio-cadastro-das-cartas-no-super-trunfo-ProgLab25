@@ -29,8 +29,8 @@ int main() {
     printf("Carta 2:\n");
     char Para ='B';
     printf("Para:%c \n",Para);
-    char Codigo[]="B02";
-    printf("Codigo:%s \n",Codigo);
+    char Codigo[] = "B02";
+    printf ("Codigo:%s \n",Codigo);
     
     // Sugestão: Defina Variáveis separadas para cada atributo das cidade.
     // Exemplos de atributos: código da cidade, nome, população, área, PIB, número de pontos turísticos.
