@@ -22,10 +22,12 @@ int main() {
     float Area = 11401;
     printf("Area:%2.f km2\n",Area); 
     float PBI = 103281;
-    printf("PBI: %.2f reais \n", PBI);
+    printf("PBI: %.2f Mil reais \n", PBI);
     int Pontos_Turisticos = 40;
     printf("Pontos Turisticos:%d \n",Pontos_Turisticos);
-
+  
+    printf("\n");
+  
     printf("Carta 2:\n");
     char Para ='B';
     printf("Para:%c \n",Para);
@@ -41,6 +43,7 @@ int main() {
     printf("PBI:%.2f reais \n",PBI2);
     int Pontos_Turisticos2 = 15;
     printf("Pontos turisticos:%d \n",Pontos_Turisticos2);
+  
     // Sugestão: Defina Variáveis separadas para cada atributo das cidade.
     // Exemplos de atributos: código da cidade, nome, população, área, PIB, número de pontos turísticos.
     
