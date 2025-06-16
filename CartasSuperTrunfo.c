@@ -47,6 +47,8 @@ int main() {
     printf("\n");
 
     printf("Carta 1: \n");
+    char Estado ='A';
+    printf("Estado: %c \n",Estado);
     // Sugestão: Defina Variáveis separadas para cada atributo das cidade.
     // Exemplos de atributos: código da cidade, nome, população, área, PIB, número de pontos turísticos.
     
