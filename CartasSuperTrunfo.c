@@ -40,7 +40,7 @@ int main() {
     float Area2 = 1059;
     printf("Area:%2.f km2 \n",Area2); 
     float PBI2 = 33467126;
-    printf("PBI:%.2f reais \n",PBI2);
+    printf("PBI:%.2f Milhões de reais \n",PBI2);
     int Pontos_Turisticos2 = 15;
     printf("Pontos turisticos:%d \n",Pontos_Turisticos2);
   
