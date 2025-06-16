@@ -6,10 +6,10 @@
 // Siga os comentários para implementar cada parte do desafio.
 //Teste larissa
 
-int main() { 
+int main() {                                       
     printf("Desafio Super Trunfo - Países\n"); 
     printf("Tema 1 - Cadastro das Cartas\n");
-    printf("Carta 1:\n");
+    printf("Carta 1:\n");                        // Carta número 1
    
     char Amazonas='A';
     printf("Amazonas:%c \n",Amazonas);
@@ -27,8 +27,8 @@ int main() {
     printf("Pontos Turisticos:%d \n",Pontos_Turisticos);
   
     printf("\n");
-  
-    printf("Carta 2:\n");
+                                   
+    printf("Carta 2:\n");                   // Carta número 2
     char Para ='B';
     printf("Para:%c \n",Para);
     char Codigo2[]= "B02";
