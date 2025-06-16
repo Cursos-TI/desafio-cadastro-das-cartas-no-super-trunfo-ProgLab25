@@ -44,6 +44,9 @@ int main() {
     int Pontos_Turisticos2 = 15;
     printf("Pontos turisticos:%d \n",Pontos_Turisticos2);
   
+    printf("\n");
+
+    printf("Carta 1: \n");
     // Sugestão: Defina Variáveis separadas para cada atributo das cidade.
     // Exemplos de atributos: código da cidade, nome, população, área, PIB, número de pontos turísticos.
     
