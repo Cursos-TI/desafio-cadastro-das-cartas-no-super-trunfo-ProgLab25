@@ -76,7 +76,7 @@ int main() {
     float Area4 =1059 ;
     printf("Area: %.2f km2 \n ",Area4);
     float PBI4 = 33467126; 
-    printf("PBI: %.2f Mil reais \n",PBI);
+    printf("PBI: %.2f Milhões de reais \n",PBI4);
     int Numero_de_Pontos_Turisticos4 = 15;  
     printf("Numpero de Pontos Turisticos: %d \n",Numero_de_Pontos_Turisticos4); 
 
