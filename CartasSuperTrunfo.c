@@ -46,7 +46,7 @@ int main() {
   
     printf("\n");
 
-    printf("Carta 1: \n");
+    printf("Carta 1: \n");               
     char Estado ='A';
     printf("Estado: %c \n",Estado); 
     char Codigo3[] ="A01";
@@ -61,6 +61,24 @@ int main() {
     printf("PBI: %.2f Mil reais \n",PBI);
     int Numero_de_Pontos_Turisticos = 40;  
     printf("Numpero de Pontos Turisticos: %d \n",Numero_de_Pontos_Turisticos); 
+
+    printf("\n"); 
+
+    printf("Carta 2: \n");
+    char Estado4 ='B';
+    printf("Estado: %c \n",Estado); 
+    char Codigo4[] ="B02";
+    printf("Codigo: %s\n",Codigo4);
+    char NomeCidade4 [50] =( "Belem") ; 
+    printf("Nome da Cidade: %s \n",NomeCidade4); 
+    int Populacao4 = 1398531; 
+    printf("Populacao: %d \n",Populacao4);
+    float Area4 =1059 ;
+    printf("Area: %.2f km2 \n ",Area4);
+    float PBI4 = 33467126; 
+    printf("PBI: %.2f Mil reais \n",PBI);
+    int Numero_de_Pontos_Turisticos4 = 15;  
+    printf("Numpero de Pontos Turisticos: %d \n",Numero_de_Pontos_Turisticos4); 
 
 
     // Sugestão: Defina Variáveis separadas para cada atributo das cidade.
