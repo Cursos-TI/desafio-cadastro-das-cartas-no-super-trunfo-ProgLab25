@@ -48,7 +48,20 @@ int main() {
 
     printf("Carta 1: \n");
     char Estado ='A';
-    printf("Estado: %c \n",Estado);
+    printf("Estado: %c \n",Estado); 
+    char Codigo3[] ="A01";
+    printf("Codigo: %s\n",Codigo3);
+    char NomeCidade [50] =( "Manaus") ; 
+    printf("Nome da Cidade: %s \n",NomeCidade); 
+    int Populacao3 = 2063689; 
+    printf("Populacao: %d \n",Populacao3);
+    float Area3 = 11401;
+    printf("Area: %.2f km2 \n ",Area3);
+    float PBI3 = 103281; 
+    printf("PBI: %%.2f Mil reais \n",PBI);
+    int Numero_de_Pontos_turisticos = 40;  
+    printf("Numero de Pontos Turisticos: %d \n",Numero_de_Pontos_turisticos);
+
     // Sugestão: Defina Variáveis separadas para cada atributo das cidade.
     // Exemplos de atributos: código da cidade, nome, população, área, PIB, número de pontos turísticos.
     
