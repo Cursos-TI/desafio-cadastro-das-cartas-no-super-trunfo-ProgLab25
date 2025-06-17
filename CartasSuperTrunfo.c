@@ -79,8 +79,9 @@ int main() {
     printf("PBI: %.2f Milhões de reais \n",PBI4);
     int Numero_de_Pontos_Turisticos4 = 15;  
     printf("Numpero de Pontos Turisticos: %d \n",Numero_de_Pontos_Turisticos4); 
-
-
+    printf("\n");
+    
+    
     // Sugestão: Defina Variáveis separadas para cada atributo das cidade.
     // Exemplos de atributos: código da cidade, nome, população, área, PIB, número de pontos turísticos.
     
